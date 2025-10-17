@@ -1,0 +1,17 @@
+{
+  "name": "bzh-vulnerability-test",
+  "version": "1.0.0",
+  "description": "bzh vulnerability test",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hitgub/test.git"
+  },
+  "type": "module",
+  "main": "index.js",
+  "author": "bzh",
+  "license": "ISC",
+  "dependencies": {
+    "bzh-this-dependency-does-not-exist": "^1.1.0",
+    "axios": "^0.24.0"
+  }
+}
